@@ -1,0 +1,64 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  padding: 5px;
+}
+.paragraph {
+  width: 1167px;
+  height: 41px;
+  left: 41px;
+  top: 59px;
+  padding: 5px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 41px;
+
+  color: #000000;
+}
+.btn {
+  height: 67px;
+  width: 303px;
+  left: 41px;
+  top: 127px;
+  border-radius: 10px;
+}
+.info {
+  font-size: 20px;
+  letter-spacing: 0em;
+  font-weight: 600;
+  margin-left: 22px;
+}
+
+.postoffice-box {
+  border: 3px solid black;
+  display: inline-table;
+  margin: 52px;
+  border-radius: 7px;
+  width: 419px;
+  padding: 10px;
+  margin-bottom: -16px;
+}
+#form {
+  display: none;
+  margin-top: 30px;
+  margin-bottom: -17px;
+  margin-left: 25px;
+}
+#search-term {
+  width: 700px;
+  border: 1.5px solid black;
+  border-radius: 8px;
+  height: 54px;
+}
+iframe {
+  border: 2px solid black;
+  margin: 20px;
+  width: 90%;
+  height: 500px;
+  display: none;
+}
